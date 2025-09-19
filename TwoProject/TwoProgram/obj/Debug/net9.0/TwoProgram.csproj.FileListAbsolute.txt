@@ -1,0 +1,14 @@
+D:\Vs Code Files\TwoProject\TwoProgram\bin\Debug\net9.0\TwoProgram.exe
+D:\Vs Code Files\TwoProject\TwoProgram\bin\Debug\net9.0\TwoProgram.deps.json
+D:\Vs Code Files\TwoProject\TwoProgram\bin\Debug\net9.0\TwoProgram.runtimeconfig.json
+D:\Vs Code Files\TwoProject\TwoProgram\bin\Debug\net9.0\TwoProgram.dll
+D:\Vs Code Files\TwoProject\TwoProgram\bin\Debug\net9.0\TwoProgram.pdb
+D:\Vs Code Files\TwoProject\TwoProgram\obj\Debug\net9.0\TwoProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs Code Files\TwoProject\TwoProgram\obj\Debug\net9.0\TwoProgram.AssemblyInfoInputs.cache
+D:\Vs Code Files\TwoProject\TwoProgram\obj\Debug\net9.0\TwoProgram.AssemblyInfo.cs
+D:\Vs Code Files\TwoProject\TwoProgram\obj\Debug\net9.0\TwoProgram.csproj.CoreCompileInputs.cache
+D:\Vs Code Files\TwoProject\TwoProgram\obj\Debug\net9.0\TwoProgram.dll
+D:\Vs Code Files\TwoProject\TwoProgram\obj\Debug\net9.0\refint\TwoProgram.dll
+D:\Vs Code Files\TwoProject\TwoProgram\obj\Debug\net9.0\TwoProgram.pdb
+D:\Vs Code Files\TwoProject\TwoProgram\obj\Debug\net9.0\TwoProgram.genruntimeconfig.cache
+D:\Vs Code Files\TwoProject\TwoProgram\obj\Debug\net9.0\ref\TwoProgram.dll
